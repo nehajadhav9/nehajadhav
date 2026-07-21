@@ -3,7 +3,7 @@ Hi, I'm Neha
 💻 About Me
 - Software Developer
 - 1+ year of experience in .NET
-- Passionate about ASP.NET MVC and ASP.NET Core
+- Passionate about ASP.NET MVC and SQL Development
 
 🛠 Skills
 - C#
